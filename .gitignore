@@ -1,0 +1,14 @@
+# gitignore template for Cyber's WoW UI - Classic
+# website: https://github.com/CyberSecGuy/CytotemUI
+
+Cache/
+Logs/
+Screenshots/
+Utils/
+
+.curseclient
+*.exe
+*.info
+*.DLL
+*.dll
+backup.bat

@@ -1,0 +1,12 @@
+VER 3 000000000000000C "Disenchant" "INV_MISC_QUESTIONMARK"
+/cast Disenchant
+/run GetMouseFocus():Click()
+/click StaticPopup1Button1
+END
+VER 3 000000000000000A "GRM_Tool" "INV_MISC_QUESTIONMARK"
+END
+VER 3 000000000000000B "Quest Turnin" "132149"
+/script SelectGossipAvailableQuest(2)
+/script CompleteQuest() 
+/script GetQuestReward() 
+END

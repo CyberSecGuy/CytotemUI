@@ -1,0 +1,71 @@
+VER 3 000000000100000A "Disease" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover,help,nodead] [help] [@player] Abolish Disease
+END
+VER 3 0000000001000008 "Dispel Magic" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Dispel Magic(Rank 2)
+END
+VER 3 000000000100000E "Divine Spirit" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover,help,nodead] [help] [@player] Divine Spirit(Rank 3)
+END
+VER 3 0000000001000009 "Flash Heal" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Flash Heal(Rank 6)
+END
+VER 3 0000000001000002 "Fort" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover,help,nodead] [help] [@player] Power Word: Fortitude(Rank 6)
+END
+VER 3 000000000100000C "Greater Heal" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Greater Heal(Rank 3)
+END
+VER 3 0000000001000007 "Heal" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Heal(Rank 4)
+END
+VER 3 0000000001000003 "Lesser Heal" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Lesser Heal(Rank 3)
+END
+VER 3 000000000100000B "Levitate" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover,help,nodead] [help] [@player] Levitate
+END
+VER 3 0000000001000001 "Powerword Shield" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Power Word: Shield(Rank 9)
+END
+VER 3 000000000100000F "Prayer of Fort" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Prayer of Fortitude(Rank 2)
+END
+VER 3 0000000001000004 "Renew" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Renew(Rank 10)
+END
+VER 3 000000000100000D "Rez" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/cast [@mouseover] Resurrection(Rank 4)
+END
+VER 3 0000000001000005 "Self Survival" "INV_MISC_QUESTIONMARK"
+#show
+/dismount
+/stopcasting
+/cast Desperate Prayer(Rank 6)
+/use Minor Healthstone
+END
