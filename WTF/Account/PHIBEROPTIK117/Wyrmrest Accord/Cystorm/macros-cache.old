@@ -1,0 +1,13 @@
+VER 3 0100000000000002 "Charge" "INV_MISC_QUESTIONMARK"
+#show Charge
+/cast [@mouseover,help,exists,nodead] Intervene;Intervene
+/cast [@target,harm,exists,nodead] Charge;Charge
+END
+VER 3 0100000000000001 "Heroic Leap" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Heroic Leap
+END
+VER 3 0100000000000003 "Intervene" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,exists,nodead,help] !Intervene;Intervene
+END

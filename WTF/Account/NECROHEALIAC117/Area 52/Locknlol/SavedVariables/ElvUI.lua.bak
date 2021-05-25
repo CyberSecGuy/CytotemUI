@@ -1,0 +1,405 @@
+
+ElvCharacterDB = {
+	["CliqueDatatext"] = {
+	},
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"Anyone got extra 4500 for Master Flying? <3 :)", -- [1]
+			"Yezzirr-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Yezzirr-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			86, -- [11]
+			"Player-3676-0D7A3908", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Yezzirr|r",
+			[51] = 1611012057,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"WTS|cffa335ee|Hitem:184784::::::::60:269:::4:6652:7193:1472:6646:1:28:837:::|h[Punishing Loop]|h|r", -- [1]
+			"Skrüff-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Skrüff-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			88, -- [11]
+			"Player-3676-0CE54AD2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Skrüff|r",
+			[51] = 1611012057,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"<Call of Booty> 9/10 N 1/10 H are looking to bolster our roster with rdps and a warrior. We raid Tues/Thurs 8-11pm server. We're a group of boomers and zoomers looking to have fun and progress despite how hectic life is at the moment!", -- [1]
+			"Enriko-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Enriko-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			89, -- [11]
+			"Player-3676-0A46C154", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cEnriko|r",
+			[51] = 1611012059,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"WTS |cffffffff|Hitem:178926::::::::60:252::65:3:6718:7194:1522::::|h[Shadowghast Ring]|h|r ilvl 225 30K thats 4k cheaper then AH", -- [1]
+			"Cariotyrz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cariotyrz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			90, -- [11]
+			"Player-3676-0D6A6566", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Cariotyrz|r",
+			[51] = 1611012062,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"<Haunted by Murlocs> PM Team is selling a <Normal Carry run TONIGHT> Personal Loot rules with chance of rolled off gear!  <CHEAP PRICING> come get your 200ilvl loot by doing absolutely nothing! GOLD ONLY PST FOR INFO <3 SPOTS LEFT>", -- [1]
+			"Ligerfish-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ligerfish-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			91, -- [11]
+			"Player-3676-0AAC74BB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaLigerfish|r",
+			[51] = 1611012062,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"WTS Heroic Sire(AOTC) / Full Heroic CN, Dm for more info. Gold only!", -- [1]
+			"Mayurï-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mayurï-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			92, -- [11]
+			"Player-3676-0A0F7441", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Mayurï|r",
+			[51] = 1611012064,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"WTS|cffa335ee|Hitem:183031::::::::60:65:::::::|h[Soldier's Stoneband Wristguards]|h|r", -- [1]
+			"Okaerii-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Okaerii-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			93, -- [11]
+			"Player-3676-0B224EC5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Okaerii|r",
+			[51] = 1611012066,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"WTS ||END OF RESET DEALS!!! || Torghast (Layers 1-8) And Twisting Corridors Layers (1-8) boosts || M0 - +15's||  H Castle Nathria Full clears  || Aeonaxx, TLPD, Huolon || Islands || Legacy Content (Glory Achievements and more) || GOLD ONLY.", -- [1]
+			"Bankrardh-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bankrardh-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			94, -- [11]
+			"Player-3676-0D766413", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cBankrardh|r",
+			[51] = 1611012069,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"Phoenix Community || Selling M+0 - M+15s! Fill up your Great Vault with the highest ilvl gear. Also WTS Heroic 10/10 Castle Nathria (Last 3/AoTC only available as well) - GOLD ONLY", -- [1]
+			"Dandelionwar-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Dandelionwar-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			95, -- [11]
+			"Player-3676-0D011C4F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDandelionwar|r",
+			[51] = 1611012075,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"wtb |cffa335ee|Hitem:49286::::::::60:63::15:::::|h[X-51 Nether-Rocket X-TREME]|h|r pst price", -- [1]
+			"Osareo-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Osareo-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			96, -- [11]
+			"Player-3676-0A3003DB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaOsareo|r",
+			[51] = 1611012077,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"wts Castle Nathria H/N Come and get your 220 items! Best price!w me", -- [1]
+			"Heghrax-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Heghrax-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			97, -- [11]
+			"Player-3676-0D7BE888", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Heghrax|r",
+			[51] = 1611012077,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+		{
+			"(Ashen) Is a AOTC Focused guild and is recuiting for our core raid team! Raid nights are Sun/Mon 8:30-11:30pm EST, raid progression 10/10N 1/10H. We are in need of a Lock/WW/hunter, Healer Priest/monk/pally. Pst me for more info!", -- [1]
+			"Endzz-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Endzz-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			98, -- [11]
+			"Player-3676-0AF60D0E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcEndzz|r",
+			[51] = 1611012078,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-207301-3676-100448215|h[Guild: D I S E N G A G E]|h|r We're a new guild looking to have some fun in SL. We need folks for our core raid team, all roles open. We will cover other things too as the guild grows. New and returning as well as casual players welcome! ", -- [1]
+			"Rezzarekted-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rezzarekted-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			99, -- [11]
+			"Player-3676-0D753405", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff006fdcRezzarekted|r",
+			[51] = 1611012079,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [13]
+		{
+			"WTS |cffffff00|Hachievement:14460:Player-3676-0B06DE37:1:1:16:21:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Sire Denathrius]|h|r with <Complexity Limit> tonight @ 10:40pm EST! Gold Only! PST for more info", -- [1]
+			"Rikahdecay-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Rikahdecay-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			101, -- [11]
+			"Player-3676-0B06DE37", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc31d39Rikahdecay|r",
+			[51] = 1611012080,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [14]
+		{
+			"WTS M+ 10-15 Keys || Gold only || Pst for more info! |cffffff00|Hachievement:14532:Player-3676-0CE7D7A5:1:1:9:21:4294967295:4294967295:4294967295:4294967295|h[Shadowlands Keystone Master: Season One]|h|r", -- [1]
+			"Nianucci-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nianucci-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			102, -- [11]
+			"Player-3676-0CE7D7A5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaNianucci|r",
+			[51] = 1611012081,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [15]
+		{
+			"<Blitzed> N10/10 H5/10 is currently looking to recruit DPS/Healers for heroic progression and Mythic + with a semi-casual guild. We try to blend the perfect amount of goofing off with serious attempts. Raid nights are Tues/Thurs 7:00-9:45 server.", -- [1]
+			"Zhulî-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Zhulî-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			103, -- [11]
+			"Player-3676-0CF558C6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Zhulî|r",
+			[51] = 1611012082,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [16]
+		{
+			"Broadside (8/10H)(Current AOTC officer core) is currently recruiting all roles of Nathria Progression. We are a CE- minded guild and will be pushing to get that at a comfortable pace this tier. Our raid times are Tuesday & Thursday 10pm- 1am EST", -- [1]
+			"Holymancow-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Holymancow-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			104, -- [11]
+			"Player-3676-0ACE0F40", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Holymancow|r",
+			[51] = 1611012084,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [17]
+		{
+			"<Haunted by Murlocs> PM Team is selling a <Normal Carry run TONIGHT> Personal Loot rules with chance of rolled off gear!  <CHEAP PRICING> come get your 200ilvl loot by doing absolutely nothing! GOLD ONLY PST FOR INFO <2 SPOTS LEFT>", -- [1]
+			"Ligerfish-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ligerfish-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			105, -- [11]
+			"Player-3676-0AAC74BB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaLigerfish|r",
+			[51] = 1611012084,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [18]
+	},
+}

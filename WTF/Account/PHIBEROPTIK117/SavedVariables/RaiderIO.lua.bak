@@ -1,0 +1,13 @@
+
+RaiderIO_Config = {
+	["previouslyEnabledLogging"] = false,
+}
+RaiderIO_LastCharacter = "us-Cytotem-illidan"
+RaiderIO_MissingCharacters = {
+	["us-Rwagorr-illidan"] = true,
+	["us-Pazraelle-illidan"] = true,
+	["us-Hùgo-illidan"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil

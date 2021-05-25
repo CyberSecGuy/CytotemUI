@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: GearList
+## Notes: Assists raiders keep an up to date list of their BIS Wish List for raids.
+## Author: Cytotem www.cytotem.gg
+## Version: 0.0.1
+
+GearList.lua

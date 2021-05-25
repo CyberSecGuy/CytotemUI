@@ -1,0 +1,12 @@
+VER 3 0000000000000001 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click ExtraActionButton1
+END
+VER 3 0000000000000002 "Flame Shock" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@focus,exists,nodead] Flame Shock; Flame Shock
+END
+VER 3 0000000000000003 "Guild Finder" "413580"
+/1 LF late night raiding guild - around 22:00st - 197 Resto Shaman pst!
+/2 LF late night raiding guild - around 22:00st - 197 Resto Shaman pst!
+END

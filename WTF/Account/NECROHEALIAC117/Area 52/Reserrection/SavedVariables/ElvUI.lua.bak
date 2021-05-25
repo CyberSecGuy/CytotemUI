@@ -1,0 +1,273 @@
+
+ElvCharacterDB = {
+	["CliqueDatatext"] = {
+	},
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"a demo lock can do 500K dps but you wont see them nerfed", -- [1]
+			"Eshantu-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Eshantu-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			6, -- [11]
+			"Player-3676-06E02746", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcEshantu|r",
+			[51] = 1610822226,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"large target, cahrge, condemn, auto, random execute proc, condemn, target is now below 20%, condemn", -- [1]
+			"Conrye-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Conrye-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"Player-3676-0ACB6913", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffef367Conrye|r",
+			[51] = 1610822228,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-251895-3676-99045489|h[Guild: Dad Bangers]|h|r 10/10 N, 9/10 H. Casually Competent.  Raiding Friday 7PM PST & Monday 6PM PST. Looking to fill out our roster for Heroic/Mythic progression. PST if interested.", -- [1]
+			"Cutetau-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cutetau-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"Player-3676-0CE5E0F8", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Cutetau|r",
+			[51] = 1610822233,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"<Cute and Petty> Is recruiting players for our raid team We are steady AotC and push mythic casually! Weekday Raid times 7:30pm to 10:30pm Fri/Sat. Chill group with no rage being the number one rule. 10/10N and 5/10 Heroic. PST for invite", -- [1]
+			"Medewsto-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Medewsto-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			18, -- [11]
+			"Player-3676-0AABE353", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Medewsto|r",
+			[51] = 1610822250,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"<Easy Boys> 3/10M W/TH/Sun 9:30-12:30est. Group of Veteran Mythic Raiders returning to game for CE content. Currently recruiting Hunter", -- [1]
+			"Yakeyames-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Yakeyames-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			19, -- [11]
+			"Player-3676-0CDADD56", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Yakeyames|r",
+			[51] = 1610822250,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [5]
+		{
+			"they nerfed rogue being able to one shot you, arms is almost there tbh", -- [1]
+			"Tàz-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Tàz-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			20, -- [11]
+			"Player-3676-0D76FAAA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfff38bb9Tàz|r",
+			[51] = 1610822250,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [6]
+		{
+			"WTS || Weekend deals!! || Torghast (Layers 1-8) And Twisting Corridors Layers (1-8) boosts || M0 - +15's|| H Castle Nathria Full clears  || Aeonaxx, TLPD, Huolon || Islands || Legacy Content (Glory Achievements and more) || GOLD ONLY.", -- [1]
+			"Bankrardh-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bankrardh-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			21, -- [11]
+			"Player-3676-0D766413", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cBankrardh|r",
+			[51] = 1610822250,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"Im sure a rogue can do same", -- [1]
+			"Ikcaris-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Ikcaris-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			22, -- [11]
+			"Player-3676-06F2AA22", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Ikcaris|r",
+			[51] = 1610822250,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [8]
+		{
+			"WTS -------> Torghast Runs <------- Any Layer you need PM! CHEAP PRICES GOLD ONLY", -- [1]
+			"Korav-Area52", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Korav-Area52", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-3676-0A725370", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Korav|r",
+			[51] = 1610822253,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [9]
+		{
+			"rogues have torghast powers?", -- [1]
+			"Eshantu-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Eshantu-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			27, -- [11]
+			"Player-3676-06E02746", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcEshantu|r",
+			[51] = 1610822259,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [10]
+		{
+			"God Warrior is just LIGHT UP BUTTONS", -- [1]
+			"Slimemaster-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Slimemaster-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			29, -- [11]
+			"Player-3676-0AC5E558", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Slimemaster|r",
+			[51] = 1610822261,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [11]
+		{
+			"i love it", -- [1]
+			"Slimemaster-Area52", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Slimemaster-Area52", -- [5]
+			"", -- [6]
+			26, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			31, -- [11]
+			"Player-3676-0AC5E558", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc31d39Slimemaster|r",
+			[51] = 1610822263,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [12]
+	},
+}

@@ -1,0 +1,10 @@
+lightweight tag fae96ba0c3234558064cf4d4fdff6073dc18fe62 9.0.1
+Author:	GitHub <noreply@github.com>
+Date:	Sun Oct 18 13:52:29 2020 +0200
+
+commit fae96ba0c3234558064cf4d4fdff6073dc18fe62
+Author: Michal Šlesár <michal.slesar@outlook.com>
+Date:   Sun Oct 18 13:52:29 2020 +0200
+
+    Fix bug when the position can't be retrieved
+

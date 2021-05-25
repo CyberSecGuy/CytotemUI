@@ -1,0 +1,44 @@
+VER 3 0100000000000002 "Door of Shadows" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Door of Shadows(Venthyr)
+END
+VER 3 010000000000000E "Feather" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Angelic Feather
+END
+VER 3 0100000000000001 "Fort" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,nodead][@player] Power Word: Fortitude
+END
+VER 3 010000000000000C "Leap of Faith" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,nodead][@focus] Leap of Faith
+END
+VER 3 010000000000000D "Levitate" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,nodead][@player] Levitate
+END
+VER 3 010000000000000B "Mass Dispel" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Mass Dispel
+END
+VER 3 0100000000000010 "Pain Sup" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,nodead][@focus] Pain Suppression
+END
+VER 3 010000000000000F "PW Barrier" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Power Word: Barrier
+END
+VER 3 0100000000000009 "PW: Shield" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,nodead][@focus] Power Word: Shield
+END
+VER 3 010000000000000A "Rez" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,dead][@target] Resurrection
+END
+VER 3 0100000000000008 "Smite" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,help,nodead][@player] Smite
+END

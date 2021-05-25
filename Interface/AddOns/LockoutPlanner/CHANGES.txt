@@ -1,0 +1,13 @@
+tag d82327d98b550df0298ce37071570ac6ab1b57b5 9.0.5
+Author:	Koenari <Koenari@koenari.de>
+Date:	Wed Mar 10 16:52:52 2021 +0100
+
+commit 81376f1c79d8a1efb76d8f0660a8bae1d511d16d
+Author: Koenari <Koenari@koenari.de>
+Date:   Wed Mar 10 16:52:40 2021 +0100
+
+    Update to 9.0.5
+    
+    Update to 9.0.5
+    *now shows proper message when no world boss lockouts are present
+

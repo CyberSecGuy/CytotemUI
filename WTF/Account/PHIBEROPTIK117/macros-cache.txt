@@ -1,0 +1,14 @@
+VER 3 000000000000001F "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Gormherd Branch
+END
+VER 3 0000000000000021 "Flame Shock" "INV_MISC_QUESTIONMARK"
+#show
+/cast Flame Shock
+END
+VER 3 0000000000000022 "Guild Recruitmen" "3193420"
+/2 Ook Ook! <Civil Gorillas> is a new guild looking to form a raid team. Looking to raid Friday - Sunday 9pm EST. If interested send a whisper, free banana signing bonus. Ook! Remember! Apes Together, Strong.
+END
+VER 3 0000000000000020 "lol" "136147"
+/2 <Two Girls One Simp> is a female lead raiding team, 1/10N. Looking for 210+ ilvl raiders to carry me to 10/10M as I twitch stream and die to every mechanic. PST!
+END

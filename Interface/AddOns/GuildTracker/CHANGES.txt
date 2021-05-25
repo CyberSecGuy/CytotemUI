@@ -1,0 +1,22 @@
+lightweight tag a0ef18c3ab2204d4fdc50f5b85c50fa07b404cde 9.0.1-1
+Author:	Crossbow <dracuul78@hotmail.com>
+Date:	Fri Oct 23 01:21:37 2020 +0200
+
+commit a0ef18c3ab2204d4fdc50f5b85c50fa07b404cde
+Author: Crossbow <dracuul78@hotmail.com>
+Date:   Fri Oct 23 01:21:37 2020 +0200
+
+    Update pkgmeta even better
+
+commit 60d9d66576dbd01c7423e7f9f539affd593052f4
+Author: Crossbow <dracuul78@hotmail.com>
+Date:   Fri Oct 23 01:16:28 2020 +0200
+
+    Update pkgmeta references
+
+commit 0a7ee1fd525b997955456213ecfad5db619f64f9
+Author: Crossbow <dracuul78@hotmail.com>
+Date:   Thu Oct 22 23:30:47 2020 +0200
+
+    Fixes for patch 9.0
+

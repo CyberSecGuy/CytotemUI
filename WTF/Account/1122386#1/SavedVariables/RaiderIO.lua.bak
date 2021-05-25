@@ -1,0 +1,26 @@
+
+RaiderIO_Config = {
+	["previouslyEnabledLogging"] = false,
+}
+RaiderIO_LastCharacter = "eu-Cytotemeu-draenor"
+RaiderIO_MissingCharacters = {
+	["eu-Graddy-draenor"] = true,
+	["eu-Goodless-draenor"] = true,
+	["eu-Tredybear-burning-legion"] = true,
+	["eu-Slowtopper-draenor"] = true,
+	["eu-Varïmathras-draenor"] = true,
+	["eu-Qwax-draenor"] = true,
+	["eu-Nynxx-draenor"] = true,
+	["eu-Manthoor-draenor"] = true,
+	["eu-Taymaztwo-draenor"] = true,
+	["eu-Nemah-draenor"] = true,
+	["eu-Nightpearl-draenor"] = true,
+	["eu-Taurenperson-draenor"] = true,
+	["eu-Aetharan-draenor"] = true,
+	["eu-Teejayy-draenor"] = true,
+	["eu-Kwarksons-draenor"] = true,
+	["eu-Izaal-draenor"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil

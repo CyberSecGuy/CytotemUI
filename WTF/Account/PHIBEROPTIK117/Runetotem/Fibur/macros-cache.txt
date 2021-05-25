@@ -1,0 +1,32 @@
+VER 3 0100000000000002 "Blizzard" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Blizzard
+END
+VER 3 0100000000000003 "Flamestrike" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Flamestrike
+END
+VER 3 0100000000000001 "Interrupt" "INV_MISC_QUESTIONMARK"
+#show
+/stopcasting
+/cast [@mouseover] Counterspell
+END
+VER 3 0100000000000006 "Kneel" "INV_MISC_QUESTIONMARK"
+/kneel
+END
+VER 3 0100000000000004 "Meteor" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Meteor
+END
+VER 3 0100000000000008 "mount" "INV_MISC_QUESTIONMARK"
+/cleartarget
+/tar Elusive Quickhoof
+/stopmacro [noexists]
+END
+VER 3 0100000000000005 "Pyroblast" "INV_MISC_QUESTIONMARK"
+#show Pyroblast
+/stopcasting
+/cast Pyroblast
+/stopcasting
+/attack.
+END

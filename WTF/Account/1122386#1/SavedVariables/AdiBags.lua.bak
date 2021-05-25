@@ -1,0 +1,40 @@
+
+AdiBagsDB = {
+	["namespaces"] = {
+		["ItemLevel"] = {
+		},
+		["FilterOverride"] = {
+			["profiles"] = {
+				["Default"] = {
+					["version"] = 3,
+				},
+			},
+		},
+		["ItemCategory"] = {
+		},
+		["NewItem"] = {
+		},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["MoneyFrame"] = {
+		},
+		["ItemSets"] = {
+		},
+		["CurrencyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["Junk"] = {
+		},
+		["Equipment"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Cyloch - Area 52"] = "Default",
+		["Cytotem - Area 52"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

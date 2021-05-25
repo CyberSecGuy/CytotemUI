@@ -1,0 +1,47 @@
+
+AddOnSkinsDB = {
+	["profileKeys"] = {
+		["Réalgurl - Area 52"] = "BenikUI",
+		["Cyknight - Illidan"] = "BenikUI",
+		["Phiber - Runetotem"] = "BenikUI",
+		["Cmbtamphib - Illidan"] = "Default",
+		["Cyloch - Area 52"] = "BenikUI",
+		["Cytotem - Illidan"] = "Default",
+		["Cylok - Illidan"] = "BenikUI",
+		["Furryfists - Illidan"] = "BenikUI",
+		["Sybah - Area 52"] = "BenikUI",
+		["Cybur - Area 52"] = "BenikUI",
+		["Cyaknight - Area 52"] = "BenikUI",
+		["Cystorm - Illidan"] = "BenikUI",
+		["Pocketrage - Area 52"] = "BenikUI",
+		["Civilgorilla - Illidan"] = "BenikUI",
+		["Fibur - Runetotem"] = "BenikUI",
+		["Cibah - Area 52"] = "BenikUI",
+		["Fyahfox - Illidan"] = "BenikUI",
+		["Cyword - Area 52"] = "BenikUI",
+		["Fyahfox - Area 52"] = "BenikUI",
+		["Incompmoron - Runetotem"] = "BenikUI",
+		["Cytotem - Area 52"] = "BenikUI",
+		["Joémarch - Illidan"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["BigWigs"] = false,
+			["AAP-Core"] = false,
+		},
+		["BenikUI"] = {
+			["WeakAuraAuraBar"] = true,
+			["DBMFontSize"] = 10,
+			["DBMFont"] = "Expressway",
+			["DBMSkinHalf"] = true,
+			["DBMRadarTrans"] = true,
+			["TransparentEmbed"] = true,
+			["BigWigs"] = false,
+			["EmbedBackdrop"] = false,
+			["AAP-Core"] = false,
+			["EmbedSystemDual"] = true,
+		},
+	},
+}
+AddOnSkinsDS = {
+}

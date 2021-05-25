@@ -1,0 +1,12 @@
+
+ElvCharacterDB = {
+	["CliqueDatatext"] = {
+	},
+	["ChatEditHistory"] = {
+		"/who Death", -- [1]
+		"/who Deathrattl", -- [2]
+		"/who Deathrattle", -- [3]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

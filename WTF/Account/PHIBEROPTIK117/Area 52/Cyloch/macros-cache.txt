@@ -1,0 +1,20 @@
+VER 3 0100000000000004 "Gateway" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Demonic Gateway
+END
+VER 3 0100000000000003 "Infernal" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Summon Infernal
+END
+VER 3 0100000000000001 "Rain of Fire" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Rain of Fire
+END
+VER 3 0100000000000002 "Shadowfury" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Shadowfury
+END
+VER 3 0100000000000005 "Summon Imp" "INV_MISC_QUESTIONMARK"
+#show
+/cast Summon Imp
+END

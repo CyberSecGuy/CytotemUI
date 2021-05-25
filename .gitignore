@@ -1,0 +1,22 @@
+# gitignore template for Cyber's WoW UI
+# website: https://git.cybersecguy.dev/cybersecguy/wowui-shadowlands
+
+blob_storage/
+Cache/
+Errors/
+GPUCache/
+Logs/
+OLD_Interface/
+OLD_WTF/
+Interface_OLD/
+WTF_OLD/
+Screenshots/
+Utils/
+Old UI/
+
+.curseclient
+*.exe
+*.info
+*.DLL
+*.dll
+backup.bat

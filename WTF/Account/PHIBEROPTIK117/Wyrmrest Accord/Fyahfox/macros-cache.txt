@@ -1,0 +1,8 @@
+VER 3 0100000000000002 "Flamestrike" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Flamestrike
+END
+VER 3 0100000000000001 "Ring of Frost" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Ring of Frost
+END

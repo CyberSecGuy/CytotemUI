@@ -1,0 +1,19 @@
+
+GRA_A_RaidLogs = {
+}
+GRA_A_Archived = {
+}
+GRA_A_Roster = {
+}
+GRA_A_Config = {
+}
+GRA_A_Variables = {
+	["helpViewed"] = false,
+	["whatsNewViewed"] = "",
+	["scaleFactor"] = 1,
+	["size"] = "normal",
+	["minimap"] = {
+		["hide"] = false,
+	},
+	["useGameFont"] = false,
+}

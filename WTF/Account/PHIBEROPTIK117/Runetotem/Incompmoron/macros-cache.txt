@@ -1,0 +1,11 @@
+VER 3 0100000000000003 "General Chat" "132147"
+/1 |cffffd100|HclubFinder:ClubFinder-1-195713-151-58093430|h[Guild: Incompetant Morons]|h|r Looking to build a raid team for Fri/Sat 8pm EST. LF low stress / drama-free raiders. New to the game or raiding? We'll help! - Runetotem / Uther connected server
+END
+VER 3 0100000000000001 "Guild Recruitmen" "134468"
+/2 |cffffd100|HclubFinder:ClubFinder-1-195713-151-58093430|h[Guild: Incompetant Morons]|h|r Looking to build a raid team for Fri/Sat 8pm EST. LF low stress / drama-free raiders. New? Looking to raid? Just coming back? We have spots!
+/sw 15:00
+/sw play
+END
+VER 3 0100000000000002 "Whisper Macro" "413587"
+Hi! it seems you aren't in a guild. If you're interested in |cffffd100|HclubFinder:ClubFinder-1-195713-151-58093430|h[Guild: Incompetant Morons]|h|r please let me know. We're a new guild building a raid team for Shadowlands progression. Raids: Fri/Sat 8pm
+END

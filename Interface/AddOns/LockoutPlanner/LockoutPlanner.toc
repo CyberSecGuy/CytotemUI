@@ -1,0 +1,17 @@
+## Interface: 90005
+## Title: LockoutPlanner
+## Title-deDE: Lockout Planer
+## Version: 9.0.5-1.0
+## Author: Koenari
+## X-Curse-Project-ID: 396692
+## X-Min-Interface: 90001
+## SavedVariablesPerCharacter: lopPlannedLockouts,lopPlannedBossLockouts,lopDefaultCommand, lopDefaultInstanceType, lopDefaultAddon, lopWantsToBroadcast
+## SavedVariables: lopSavedVars, lopDBIDData, lopDBWbIDData
+
+localization.core.lua
+locales\deDE.lua
+LockoutPlannerDB.lua
+LockoutPlannerDBData.lua
+LockoutPlannerOptions.xml
+LockoutPlannerOptions.lua
+LockoutPlanner.lua

@@ -1,0 +1,10 @@
+
+MaxDpsDeathKnightOptions = {
+	["bloodDancingRuneWeaponAsCooldown"] = false,
+	["frostFrostwyrmsFuryAsCooldown"] = true,
+	["unholyArmyOfTheDeadAsCooldown"] = true,
+	["unholySacrificialPactAsCooldown"] = true,
+	["unholySummonGargoyleAsCooldown"] = false,
+	["alwaysGlowCooldowns"] = true,
+	["abominationLimbAsCooldown"] = true,
+}

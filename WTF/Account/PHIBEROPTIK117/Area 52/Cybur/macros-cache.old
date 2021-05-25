@@ -1,0 +1,49 @@
+VER 3 0100000000000007 "BoP" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@player] Blessing of Protection
+END
+VER 3 010000000000000C "Clense" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Cleanse Toxins
+END
+VER 3 0100000000000005 "Freedom" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@player] Blessing of Freedom
+END
+VER 3 0100000000000001 "Hands" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@player] Lay on Hands
+END
+VER 3 010000000000000B "Heal" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@player] Flash of Light
+END
+VER 3 010000000000000A "Repent" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Repentance
+END
+VER 3 0100000000000002 "Rez" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Redemption
+END
+VER 3 0100000000000008 "Sac" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Blessing of Sacrifice
+END
+VER 3 0100000000000009 "Slow" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Hand of Hindrance
+END
+VER 3 0100000000000006 "Steed" "INV_MISC_QUESTIONMARK"
+#show
+/stopcasting
+/cast Divine Steed
+END
+VER 3 0100000000000004 "Taunt" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Hand of Reckoning
+END
+VER 3 0100000000000003 "WOG" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@player] Word of Glory
+END

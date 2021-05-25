@@ -1,0 +1,77 @@
+VER 3 0100000000000001 "Cap" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Capacitor Totem
+END
+VER 3 0100000000000002 "Chain Heal" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Chain Heal
+END
+VER 3 0100000000000003 "EB" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Earthgrab Totem
+END
+VER 3 0100000000000004 "ES" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Earth Shield
+END
+VER 3 010000000000000A "Healing Rain" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Healing Rain
+END
+VER 3 010000000000000E "Healing Surge" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Healing Surge
+END
+VER 3 0100000000000005 "Healing Wave" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Healing Wave
+END
+VER 3 0100000000000006 "Lava Burst" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@focus,exists,nodead] Lava Burst; Lava Burst
+END
+VER 3 0100000000000007 "Misc" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Unleash Life
+/use [@mouseover] 13 
+/cast [@mouseover] Bag of Tricks(Racial)
+END
+VER 3 0100000000000008 "Primordial Wave" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover,exists,nodead][exists,nodead][@player] Primordial Wave(Necrolord)
+/use [@mouseover,exists,nodead][exists,nodead] 13
+/cast [@mouseover] Bag of Tricks(Racial)
+/use [@mouseover] 13
+/use [@mouseover] 14
+END
+VER 3 0100000000000009 "Purify" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Purify Spirit
+END
+VER 3 010000000000000B "Speed Totem" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] !Wind Rush Totem
+END
+VER 3 010000000000000C "Spring + Trink" "INV_MISC_QUESTIONMARK"
+#show
+/cast !Wellspring
+/use 13
+END
+VER 3 010000000000000D "Stone Wall Totem" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@cursor] Earthen Wall Totem
+END
+VER 3 010000000000000F "SWG" "INV_MISC_QUESTIONMARK"
+#show
+/cast Spiritwalker's Grace
+END
+VER 3 0100000000000010 "Tide" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@mouseover] Riptide
+END
+VER 3 0100000000000011 "Wolves + Trinket" "INV_MISC_QUESTIONMARK"
+#show
+/cast [@target] Feral Spirit
+/use 13
+/use 14
+END

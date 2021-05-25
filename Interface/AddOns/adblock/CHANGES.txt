@@ -1,0 +1,10 @@
+lightweight tag 3fc2a3be29c712c48b3a41e2a644aadce7679473 v1.1.2
+Author:	Astorsoft <astorz@gmail.com>
+Date:	Wed Aug 12 17:25:24 2020 +0200
+
+commit 3fc2a3be29c712c48b3a41e2a644aadce7679473
+Author: Astorsoft <astorz@gmail.com>
+Date:   Wed Aug 12 17:25:24 2020 +0200
+
+    typo fix + adding missing channel names in the history
+
